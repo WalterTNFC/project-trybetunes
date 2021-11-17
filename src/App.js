@@ -1,4 +1,5 @@
 import React from 'react';
+// test 2
 
 class App extends React.Component {
   render() {
